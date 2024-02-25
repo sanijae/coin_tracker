@@ -1,6 +1,10 @@
 # Coin Trackers
 Built with React and Redux,åç Coin Tracker provides real time market-based information and statistics about the top 52 cryptocurrencies in the market. It is compatible in desktop and mobbuile devices. 
 
+## Live Demo
+
+https://coin-tracker-ztyd.onrender.com
+
 ## Built With
 
 - React [Create React App](https://github.com/facebook/create-react-app)
