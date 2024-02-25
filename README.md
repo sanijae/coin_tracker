@@ -11,12 +11,11 @@ Built with React and Redux,åç Coin Tracker provides real time market-based inf
 - [Postman API Platform](https://www.postman.com/)
 - [Coin Lore](https://www.coinlore.com/cryptocurrency-data-api)
 
-# Live Description
 ## Getting Started 
 
 To Clone The Repository in your Local Machine, run:
 
-#### `https://github.com/Krishnabot/CoinTrackers.git`
+#### `https://github.com/sanijae/coin_tracker.git`
 
 In the project directory, you can run:
 
